@@ -1,11 +1,11 @@
 {
+  "name": "savein",
+  "displayName": "savein",
   "expo": {
-    "name": "todo",
-    "slug": "todo",
+    "name": "savein",
+    "slug": "savein",
+    "scheme": "savein",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  },
-  "name": "todo"
+    "assetBundlePatterns": ["**/*"]
+  }
 }

@@ -1,0 +1,10 @@
+Para configurar as credencias precisa de algumas alteracoes
+
+Logar com o expo no teminal
+  expo login
+
+adicionar a scheme dentro do app-json
+scheme: "nome do projeto"
+
+adicionar de maneira global o scheme
+npx uri-scheme add 'nome do scheme adicionado no app-json'
